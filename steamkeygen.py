@@ -19,7 +19,7 @@ def generate_and_display_keys():
 
 def generate_keys_gui():
     window = tk.Tk()
-    window.title("Key Generator")
+    window.title("Key efe")
     window.geometry("300x100")
 
     label = tk.Label(window, text="Click the button to generate keys.")
